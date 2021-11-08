@@ -1,2 +1,2 @@
-# dynamic_programing_course
-Course of dynamic programing (execrices)
+# dynamic_programming_course
+Course of dynamic programming (execrices)
