@@ -1,2 +1,2 @@
 # dynamic_programming_course
-Course of dynamic programming (execrices)
+Course of dynamic programming (exercises)
